@@ -1,0 +1,24 @@
+# Yumm — Sistema Operativo Integral para Restaurantes (Documentación Completa)
+
+## 1. Resumen Ejecutivo
+Yumm es una plataforma SaaS en la nube especializada en la digitalización, automatización y control financiero de restaurantes, bares, cafeterías y cadenas de hospitalidad en El Salvador y Latinoamérica.
+
+## 2. Módulos y Arquitectura
+- **Menú Digital QR y Pedidos en Mesa:** Menú táctil de alta velocidad, pedidos directos a cocina, personalización de platillos, división de cuentas y propinas digitales.
+- **Pantalla de Cocina KDS (Kitchen Display System):** Organización de comandas por estaciones (cocina caliente, fría, barra), temporizadores automáticos, modo hora pico y sincronización en tiempo real.
+- **Inventarios y Costeo de Recetas:** Descuento automático de insumos por plato vendido, alertas de stock mínimo, gestión de mermas y cálculo de costo real de alimentos (Food Cost).
+- **Inteligencia Artificial y Analítica:** Algoritmos de predicción de demanda semanal, compras sugeridas para proveedores, optimización de márgenes y recomendaciones predictivas.
+- **Reservaciones Inteligentes:** Calendario web interactivo, confirmaciones automáticas vía WhatsApp y cobro de anticipos.
+- **Control Multi-Sucursal y Modo Offline:** Gestión centralizada de múltiples locales, control de roles de empleados, compatibilidad con impresoras térmicas ESC/POS y continuidad operativa 100% offline ante caídas de internet local.
+
+## 3. Precios y Suscripciones
+- **Plan Esencial:** $49/mes por sucursal (Menú QR, pedidos digitales, soporte 24/7).
+- **Plan Pro:** $79/mes por sucursal (Suma Cocina KDS, inventario automatizado y división de cuentas).
+- **Plan Pro + IA:** $108/mes por sucursal (Suma módulo de Inteligencia Artificial predictiva y asistente).
+- **Multi-sucursal:** Escalable a $79/mes por cada sucursal adicional con descuentos en planes anuales (2 meses gratis).
+
+## 4. Contacto y Soporte
+- Sitio web: https://yumm-app.vercel.app / https://yumm.app
+- Correo: hola@yumm.app
+- Soporte: Asistencia técnica 24/7 en vivo vía WhatsApp
+- Sede: San Salvador, El Salvador (Cobertura regional)

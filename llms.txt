@@ -1,0 +1,16 @@
+# Yumm — Sistema Operativo Integral para Restaurantes
+
+> Yumm es una plataforma SaaS en la nube diseñada para restaurantes, cafeterías, bares y cadenas gastronómicas en El Salvador y Latinoamérica. Centraliza menús QR interactivos, pantallas de cocina KDS, gestión de inventarios con recetas dinámicas, reservaciones inteligentes, analítica predictiva con IA y operación multi-sucursal con modo offline continuo.
+
+## Módulos Principales
+- [Ecosistema](https://yumm.app/ecosistema): Visión integral del flujo operativo desde la mesa hasta la administración central.
+- [Cocina KDS](https://yumm.app/cocina-kds): Sistema digital de comandas en tiempo real dividido por estaciones con temporizadores y cero tickets extraviados.
+- [Inteligencia Artificial](https://yumm.app/ia): Algoritmos de predicción de demanda, compras sugeridas a proveedores y asistente virtual para optimización del ticket promedio.
+- [Precios y Planes](https://yumm.app/planes): Planes transparentes sin comisiones ocultas por pedido: Esencial ($49/mes), Pro ($79/mes), Pro + IA ($108/mes) y Multi-sucursal escalable ($79 × sucursal).
+- [Contacto y Demos](https://yumm.app/contacto): Solicitud de demostraciones guiadas y soporte técnico comercial 24/7.
+
+## Características Técnicas y Soporte
+- Compatibilidad: 100% web en la nube, operable en smartphones, tablets (iOS/Android), ordenadores y pantallas táctiles comerciales.
+- Hardware soportado: Impresoras térmicas de tickets (ESC/POS vía Ethernet, Bluetooth o Wi-Fi), lectores de código de barras y cajones monederos estándar.
+- Modo Offline: Continuidad operativa local ante caídas de internet con sincronización automática en la nube.
+- Soporte: Asistencia técnica 24/7 en vivo vía WhatsApp comercial.
